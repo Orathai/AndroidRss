@@ -1,2 +1,0 @@
-# AndroidRss
-RSS-feed

@@ -2,60 +2,60 @@
 <items version="2" >
 
     <item
-        jar="/home/orathai/Downloads/CheckdBlock/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
-        jumboMode="true"
-        revision="21.1.2"
-        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
-        <dex dex="/home/orathai/Downloads/CheckdBlock/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_5725f9e0d11f23f4081896086e57f1491eed50cc/classes.dex" />
-    </item>
-    <item
-        jar="/home/orathai/Downloads/CheckdBlock/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
-        jumboMode="true"
-        revision="21.1.2"
-        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
-        <dex dex="/home/orathai/Downloads/CheckdBlock/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_5ca83065873b223f9a535184560de2a5f5cef3a1/classes.dex" />
-    </item>
-    <item
-        jar="/home/orathai/Downloads/CheckdBlock/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
-        jumboMode="true"
-        revision="21.1.2"
-        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
-        <dex dex="/home/orathai/Downloads/CheckdBlock/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_2f6575879ccd6d92182bd61ac8c5c1b10cab1f3d/classes.dex" />
-    </item>
-    <item
-        jar="/home/orathai/Downloads/CheckdBlock/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
-        jumboMode="true"
-        revision="21.1.2"
-        sha1="8a00dcb1e3e6578426da4aa7dfe0023f534d4724">
-        <dex dex="/home/orathai/Downloads/CheckdBlock/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_98ac1f5211cbf66c3c71c665993fc7c738be4387/classes.dex" />
-    </item>
-    <item
-        jar="/home/orathai/Downloads/CheckdBlock/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        revision="21.1.2"
-        sha1="44e4073d93cd67ace51075590a16ae2606863992">
-        <dex dex="/home/orathai/Downloads/CheckdBlock/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_658d8621f06573a6bde2f194ddba4f014e87f1e3/classes.dex" />
-    </item>
-    <item
-        jar="/home/orathai/Downloads/CheckdBlock/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jar="/home/orathai/git/AndroidRss/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
         jumboMode="true"
         revision="21.1.2"
         sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
-        <dex dex="/home/orathai/Downloads/CheckdBlock/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_6ba44f9b0025bb341605b81d53ff3a9818b3247d/classes.dex" />
+        <dex dex="/home/orathai/git/AndroidRss/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_fb5ea8579ee7746798caf140c42f5383d8c592aa/classes.dex" />
     </item>
     <item
-        jar="/home/orathai/Downloads/CheckdBlock/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jar="/home/orathai/git/AndroidRss/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="9e9e8a07d62e659f7b85b48fb53c04ba44720f2f">
+        <dex dex="/home/orathai/git/AndroidRss/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_ba0923d438b99ced0d2117b30e99d3cb31b6957b/classes.dex" />
+    </item>
+    <item
+        jar="/home/orathai/git/AndroidRss/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="1f8e21789c9b5a3a0bcb6699819c1d82bcfefcdf">
+        <dex dex="/home/orathai/git/AndroidRss/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_039134308e09951f3e2a546d4512e19305db68fd/classes.dex" />
+    </item>
+    <item
+        jar="/home/orathai/git/AndroidRss/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/home/orathai/git/AndroidRss/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_f704cded0cef11c949fc471d28dea803ff2ef018/classes.dex" />
+    </item>
+    <item
+        jar="/home/orathai/git/AndroidRss/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
         jumboMode="true"
         revision="21.1.2"
         sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
-        <dex dex="/home/orathai/Downloads/CheckdBlock/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_639d863115bb1660c4e987c0a6856ad5a7ebfae4/classes.dex" />
+        <dex dex="/home/orathai/git/AndroidRss/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_ce43295263a9d5b647683e48dcc6b01398d21934/classes.dex" />
+    </item>
+    <item
+        jar="/home/orathai/git/AndroidRss/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/home/orathai/git/AndroidRss/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_a033a2eaba3d42ffe5605703a8dab925120c8dec/classes.dex" />
+    </item>
+    <item
+        jar="/home/orathai/git/AndroidRss/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/home/orathai/git/AndroidRss/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_0731af3b9f0afcebc45d2399e8ef1fd5289f639f/classes.dex" />
     </item>
     <item
         jar="/home/orathai/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
         jumboMode="true"
         revision="21.1.2"
         sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
-        <dex dex="/home/orathai/Downloads/CheckdBlock/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_605486a2a00b5acdfbc51680ea73fa991357b1da/classes.dex" />
+        <dex dex="/home/orathai/git/AndroidRss/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_605486a2a00b5acdfbc51680ea73fa991357b1da/classes.dex" />
     </item>
 
 </items>
